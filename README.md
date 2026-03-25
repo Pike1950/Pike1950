@@ -16,5 +16,5 @@ Bench-level validation, mixed-signal debug, PCB design (KiCad/Altium), SystemVer
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/bradley-ward-49087766/) | BradW858@gmail.com
+[LinkedIn](https://www.linkedin.com/in/bradley-ward-) | BradW858@gmail.com
 
